@@ -1,0 +1,15 @@
+/Users/pnitkaa/Documents/nitka/sharp/console_2/project_2/bin/Debug/net6.0/project_2
+/Users/pnitkaa/Documents/nitka/sharp/console_2/project_2/bin/Debug/net6.0/project_2.deps.json
+/Users/pnitkaa/Documents/nitka/sharp/console_2/project_2/bin/Debug/net6.0/project_2.runtimeconfig.json
+/Users/pnitkaa/Documents/nitka/sharp/console_2/project_2/bin/Debug/net6.0/project_2.dll
+/Users/pnitkaa/Documents/nitka/sharp/console_2/project_2/bin/Debug/net6.0/project_2.pdb
+/Users/pnitkaa/Documents/nitka/sharp/console_2/project_2/obj/Debug/net6.0/project_2.csproj.AssemblyReference.cache
+/Users/pnitkaa/Documents/nitka/sharp/console_2/project_2/obj/Debug/net6.0/project_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pnitkaa/Documents/nitka/sharp/console_2/project_2/obj/Debug/net6.0/project_2.AssemblyInfoInputs.cache
+/Users/pnitkaa/Documents/nitka/sharp/console_2/project_2/obj/Debug/net6.0/project_2.AssemblyInfo.cs
+/Users/pnitkaa/Documents/nitka/sharp/console_2/project_2/obj/Debug/net6.0/project_2.csproj.CoreCompileInputs.cache
+/Users/pnitkaa/Documents/nitka/sharp/console_2/project_2/obj/Debug/net6.0/project_2.dll
+/Users/pnitkaa/Documents/nitka/sharp/console_2/project_2/obj/Debug/net6.0/refint/project_2.dll
+/Users/pnitkaa/Documents/nitka/sharp/console_2/project_2/obj/Debug/net6.0/project_2.pdb
+/Users/pnitkaa/Documents/nitka/sharp/console_2/project_2/obj/Debug/net6.0/project_2.genruntimeconfig.cache
+/Users/pnitkaa/Documents/nitka/sharp/console_2/project_2/obj/Debug/net6.0/ref/project_2.dll

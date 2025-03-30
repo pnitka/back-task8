@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "L+bYm5pfGb3/ShfdZ6xpRiSPtlN4MyEPKlMGWT15Qp3lCeCucixkDrjuSE7Ix+2dP8LhCIJSv6hvY3igCB/Asw==",
+  "success": true,
+  "projectFilePath": "/Users/pnitkaa/Documents/nitka/sharp/console_2/project_2/project_2.csproj",
+  "expectedPackageFiles": [
+    "/Users/pnitkaa/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/pnitkaa/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/pnitkaa/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
